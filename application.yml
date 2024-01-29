@@ -2,4 +2,4 @@ server:
    port: "8084"
 spring:
    application: 
-      name: API-GATEWAY
+      name: CONFIG-SERVER
